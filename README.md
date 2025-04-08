@@ -1,10 +1,8 @@
-# 📘 BookNest: Library Management System in C
+# Bookly: Library Management System in C
 
 ## Overview
 
-**BookNest** is a terminal-based Library Management System written in C. It allows you to manage books and users efficiently using data structures like trees, queues, and hash maps. With support for adding, searching, issuing, and returning books, BookNest is a hands-on project to understand how backend logic can be structured for a real-world system.
-
----
+**Bookly** is a terminal-based Library Management System written in C. It allows you to manage books and users efficiently using data structures like trees, queues, and hash maps. With support for adding, searching, issuing, and returning books, BookNest is a hands-on project to understand how backend logic can be structured for a real-world system.
 
 ## Features
 
@@ -12,34 +10,6 @@
 - Manage library users and borrowing records
 - Handle book issuance and returns with queue support
 - Structured internal logic using custom data structures
-
----
-
-## 🛠️ Build Instructions (Using CMake)
-
-1. **Clone the repository**
-
-   ```bash
-   git clone <repo-url>
-   cd BookNest
-   ```
-
-# 📘 BookNest: Library Management System in C
-
-## Overview
-
-**BookNest** is a terminal-based Library Management System written in C. It allows you to manage books and users efficiently using data structures like trees, queues, and hash maps. With support for adding, searching, issuing, and returning books, BookNest is a hands-on project to understand how backend logic can be structured for a real-world system.
-
----
-
-## Features
-
-- Add, search, and remove books from the catalog
-- Manage library users and borrowing records
-- Handle book issuance and returns with queue support
-- Structured internal logic using custom data structures
-
----
 
 ## 🛠️ Build Instructions
 
@@ -47,7 +17,7 @@
 
    ```bash
    git clone <repo-url>
-   cd BookNest
+   cd Bookly
 
    ```
 
@@ -66,8 +36,6 @@
    ```bash
    ./bookly
    ```
-
----
 
 ## Future Improvements
 
